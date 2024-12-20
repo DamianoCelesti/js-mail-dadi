@@ -28,7 +28,7 @@ for (let i = 0; i < email.length; i++) {
 
 }
 
-
+//stampa un messaggio appropriato
 if (emailDaConf) {
     console.log('email registrata accedi');
 
